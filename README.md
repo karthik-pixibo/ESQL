@@ -1,3 +1,3 @@
 Elasticsearch SQL
 =========
-Work in progress
+Work in progress.
